@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_approval_x_snc_swag_portal</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:49</sys_created_on>
+        <sys_id>85a41cc81d9a9510fa86886fea290dab</sys_id>
+        <sys_name>Custom portal (x_snc_swag_portal )</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ui_view_85a41cc81d9a9510fa86886fea290dab</sys_update_name>
+        <title>Custom portal (x_snc_swag_portal )</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

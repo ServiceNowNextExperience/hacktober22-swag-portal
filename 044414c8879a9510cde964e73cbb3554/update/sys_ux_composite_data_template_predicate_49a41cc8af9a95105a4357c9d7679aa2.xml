@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,state,number</field_list>
+        <name>My Request - task predicate</name>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">0da41cc8e49a9510d981adc642d395a3</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:41</sys_created_on>
+        <sys_id>49a41cc8af9a95105a4357c9d7679aa2</sys_id>
+        <sys_name>My Request - task predicate</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_49a41cc8af9a95105a4357c9d7679aa2</sys_update_name>
+        <table>task</table>
+        <ux_template display_value="Item produced template">01a41cc8219a9510f646d153c2956aa3</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

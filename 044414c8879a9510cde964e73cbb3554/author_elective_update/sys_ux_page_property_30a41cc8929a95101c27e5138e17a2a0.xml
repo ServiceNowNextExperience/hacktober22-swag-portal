@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">7ca41cc81d9a9510fabc895433d0af9d</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>30a41cc8929a95101c27e5138e17a2a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_page_property_30a41cc8929a95101c27e5138e17a2a0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-27 13:45:43</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_swag_portal.7ca41cc81d9a9510fabc895433d0af9d.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</application>
+        <file_path/>
+        <instance_id>b46e28d3db894910e03ad7c8f4961968</instance_id>
+        <instance_name>ashleyuidemo</instance_name>
+        <name>sys_ux_page_property_30a41cc8929a95101c27e5138e17a2a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">7ca41cc81d9a9510fabc895433d0af9d</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-09-27 13:45:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>30a41cc8929a95101c27e5138e17a2a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package><sys_policy/><sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope><sys_update_name>sys_ux_page_property_30a41cc8929a95101c27e5138e17a2a0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-09-27 13:45:43</sys_updated_on><type>json</type><unique_name>x_snc_swag_portal.7ca41cc81d9a9510fabc895433d0af9d.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1398806637</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>78483a024702111075cac472846d4375</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-21 20:32:42</sys_created_on>
+        <sys_id>6d766c0c87da9510cde964e73cbb355a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18361c0b2100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>2d766c0c8fda9510a0c644b71684855a</update_guid>
+        <update_guid_history>2d766c0c8fda9510a0c644b71684855a:1398806637</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:03:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1973434cff49413598dc4925ac3f3451</sys_id>
+        <sys_metadata>30a41cc8929a95101c27e5138e17a2a0</sys_metadata>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_scope_delete display_value="">9be080ab0fa94912a2e69972c6d38c19</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_30a41cc8929a95101c27e5138e17a2a0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_30a41cc8929a95101c27e5138e17a2a0">6d766c0c87da9510cde964e73cbb355a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

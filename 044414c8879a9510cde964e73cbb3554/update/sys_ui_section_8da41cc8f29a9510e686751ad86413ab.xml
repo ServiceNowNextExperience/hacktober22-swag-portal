@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8da41cc8f29a9510e686751ad86413ab" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_snc_swag_portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 13:45:52</sys_created_on>
+            <sys_id>45a41cc8df9a9510400e9dfc79c39bac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="81a41cc82a9a951065eca6ba86b6faac">8da41cc8f29a9510e686751ad86413ab</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-27 13:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 13:45:52</sys_created_on>
+            <sys_id>c5a41cc85d9a95109dfdc56a5f51faac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="81a41cc82a9a951065eca6ba86b6faac">8da41cc8f29a9510e686751ad86413ab</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-27 13:45:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 13:45:52</sys_created_on>
+            <sys_id>45a41cc8709a95105ca0c4d21f7093ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="81a41cc82a9a951065eca6ba86b6faac">8da41cc8f29a9510e686751ad86413ab</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-27 13:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 13:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8da41cc8f29a9510e686751ad86413ab</sys_id>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+            <sys_update_name>sys_ui_section_8da41cc8f29a9510e686751ad86413ab</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_snc_swag_portal )" name="custom_portal_settings_x_snc_swag_portal">81a41cc82a9a951065eca6ba86b6faac</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

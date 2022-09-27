@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "catalogItemId" : ""
+}</macroponent_config>
+        <screen display_value="Catalog Item Page Default">81a41cc8339a95103c8c2e75dee03dad</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:45</sys_created_on>
+        <sys_id>01a41cc8799a9510711546fa6ef3f2ad</sys_id>
+        <sys_name/>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_01a41cc8799a9510711546fa6ef3f2ad</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>

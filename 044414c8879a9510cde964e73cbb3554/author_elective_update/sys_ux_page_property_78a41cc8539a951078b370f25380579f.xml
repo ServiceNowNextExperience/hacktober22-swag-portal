@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">7ca41cc81d9a9510fabc895433d0af9d</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">89a41cc8619a95103f395f37be0f4ea8</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78a41cc8539a951078b370f25380579f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_page_property_78a41cc8539a951078b370f25380579f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-27 13:45:51</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_swag_portal.7ca41cc81d9a9510fabc895433d0af9d.route.chrome_header.89a41cc8619a95103f395f37be0f4ea8</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</application>
+        <file_path/>
+        <instance_id>b46e28d3db894910e03ad7c8f4961968</instance_id>
+        <instance_name>ashleyuidemo</instance_name>
+        <name>sys_ux_page_property_78a41cc8539a951078b370f25380579f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">7ca41cc81d9a9510fabc895433d0af9d</page><required_translations>[]</required_translations><route display_value="Search Page">89a41cc8619a95103f395f37be0f4ea8</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-09-27 13:45:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>78a41cc8539a951078b370f25380579f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package><sys_policy/><sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope><sys_update_name>sys_ux_page_property_78a41cc8539a951078b370f25380579f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-09-27 13:45:51</sys_updated_on><type>json</type><unique_name>x_snc_swag_portal.7ca41cc81d9a9510fabc895433d0af9d.route.chrome_header.89a41cc8619a95103f395f37be0f4ea8</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-405867871</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>78483a024702111075cac472846d4375</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-21 20:32:42</sys_created_on>
+        <sys_id>e976ac0c87da9510cde964e73cbb3506</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18361c0b2100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a976ac0c65da95104724e616cc706806</update_guid>
+        <update_guid_history>a976ac0c65da95104724e616cc706806:-405867871</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:03:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7dbf6bbc5653402f814fecd26d6a0b19</sys_id>
+        <sys_metadata>78a41cc8539a951078b370f25380579f</sys_metadata>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_scope_delete display_value="">9be080ab0fa94912a2e69972c6d38c19</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_78a41cc8539a951078b370f25380579f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_78a41cc8539a951078b370f25380579f">e976ac0c87da9510cde964e73cbb3506</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

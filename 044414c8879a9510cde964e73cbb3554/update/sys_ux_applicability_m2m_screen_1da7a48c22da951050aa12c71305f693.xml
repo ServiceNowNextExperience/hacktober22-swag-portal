@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">59a7a48c98da951087f4bd4e061f8f99</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">5da7a48cb6da951079d433eb4ea16795</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 15:08:46</sys_created_on>
+        <sys_id>1da7a48c22da951050aa12c71305f693</sys_id>
+        <sys_name/>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_1da7a48c22da951050aa12c71305f693</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
