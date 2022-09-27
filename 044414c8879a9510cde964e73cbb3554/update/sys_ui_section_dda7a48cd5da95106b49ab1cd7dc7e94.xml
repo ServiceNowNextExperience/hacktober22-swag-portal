@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="dda7a48cd5da95106b49ab1cd7dc7e94" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_snc_swag_portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 15:08:43</sys_created_on>
+            <sys_id>d9a7a48c9bda95100fad788aade86c94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="59a7a48c9eda9510b0185f481a8e5994">dda7a48cd5da95106b49ab1cd7dc7e94</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-27 15:08:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 15:08:43</sys_created_on>
+            <sys_id>5da7a48cf3da9510b9c1ead1e18d3694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="59a7a48c9eda9510b0185f481a8e5994">dda7a48cd5da95106b49ab1cd7dc7e94</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-27 15:08:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-27 15:08:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dda7a48cd5da95106b49ab1cd7dc7e94</sys_id>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+            <sys_update_name>sys_ui_section_dda7a48cd5da95106b49ab1cd7dc7e94</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_snc_swag_portal" name="2_custom_portal_approval_x_snc_swag_portal">59a7a48c9eda9510b0185f481a8e5994</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

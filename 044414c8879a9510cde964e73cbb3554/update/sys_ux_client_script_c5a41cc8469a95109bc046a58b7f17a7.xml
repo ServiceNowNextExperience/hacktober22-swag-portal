@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">45a41cc84a9a9510153ffa44d8c2aca7</macroponent>
+        <name>handle_pagination</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+	const props = api.context.props;
+	const fields = {
+		searchContextConfigId: props.searchContextConfigId,
+		searchTerm: props.searchTerm
+	};
+	const token = event.payload.paginationToken;
+	const params = {
+		searchFilters: props.searchFilters,
+		facetFilters: props.facetFilters,
+		disableSpellCheck: props.disableSpellCheck,
+		paginationToken: token
+	};
+	global.window.scrollTo(0, 0);
+	helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>1.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:52</sys_created_on>
+        <sys_id>c5a41cc8469a95109bc046a58b7f17a7</sys_id>
+        <sys_name>handle_pagination</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_client_script_c5a41cc8469a95109bc046a58b7f17a7</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

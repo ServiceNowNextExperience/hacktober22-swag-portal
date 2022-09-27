@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_c9bb2397b720101016fddb91de11a9f2</event_name>
+        <interfaces/>
+        <label>Nav Item Selected Relay (Portal Landing Page Default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route Type"},{"name":"fields","fieldType":"string","interfaceApiName":"global.route","label":"Route Fields"},{"name":"params","fieldType":"string","interfaceApiName":"global.route","label":"Optionals Parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"If redirect is true, url will be redirected"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:45</sys_created_on>
+        <sys_id>8da41cc83f9a951015eada25bfd7d1a1</sys_id>
+        <sys_name>Nav Item Selected Relay (Portal Landing Page Default)</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_event_8da41cc83f9a951015eada25bfd7d1a1</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=8da41cc83f9a951015eada25bfd7d1a1"/>
+</record_update>

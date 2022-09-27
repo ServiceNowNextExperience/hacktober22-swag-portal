@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">81a41cc8829a95104f77e1e986ccbfa5</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">cda41cc8d29a951025ac02260d7359a4</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:50</sys_created_on>
+        <sys_id>05a41cc86a9a9510cf95d3443324bba4</sys_id>
+        <sys_name/>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_05a41cc86a9a9510cf95d3443324bba4</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

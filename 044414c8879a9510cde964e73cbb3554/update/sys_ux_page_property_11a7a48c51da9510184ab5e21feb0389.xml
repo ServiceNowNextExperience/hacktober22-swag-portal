@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Swag Portal">11a7a48c1ada9510537dc8534c5a7087</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">19a7a48c7dda9510dc27c88403d34292</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 15:08:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>11a7a48c51da9510184ab5e21feb0389</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_page_property_11a7a48c51da9510184ab5e21feb0389</sys_update_name>
+        <type>json</type>
+        <unique_name>x_snc_swag_portal.11a7a48c1ada9510537dc8534c5a7087.route.chrome_header.19a7a48c7dda9510dc27c88403d34292</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=11a7a48c51da9510184ab5e21feb0389"/>
+</record_update>

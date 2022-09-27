@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Swag portal">54d6644c87da9510cde964e73cbb3530</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Testing</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Header App Shell">9d9670b0c30320109fe6a0f89d40dd97</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>testing</route_type>
+        <screen_type display_value="Testing">d7f6684c87da9510cde964e73cbb352b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:05:51</sys_created_on>
+        <sys_id>eff6a84c87da9510cde964e73cbb350e</sys_id>
+        <sys_name>Testing</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_app_route_eff6a84c87da9510cde964e73cbb350e</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=eff6a84c87da9510cde964e73cbb350e"/>
+</record_update>

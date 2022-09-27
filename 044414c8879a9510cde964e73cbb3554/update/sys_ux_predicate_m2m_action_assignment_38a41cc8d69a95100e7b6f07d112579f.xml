@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">81a41cc8009a95101527fff7c07aebb0</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">c1a41cc8439a95109297099154b49ba2</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:42</sys_created_on>
+        <sys_id>38a41cc8d69a95100e7b6f07d112579f</sys_id>
+        <sys_name/>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_38a41cc8d69a95100e7b6f07d112579f</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

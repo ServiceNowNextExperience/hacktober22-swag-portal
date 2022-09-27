@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_2_sc">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>related_sc_cat_item.category.title,related_sc_cat_item.picture,related_sc_cat_item.name,related_sc_cat_item.price,related_sc_cat_item.short_description,related_sc_cat_item.recurring_price,related_sc_cat_item.recurring_frequency</field_list>
+        <name>Custom portal - Related items predicate</name>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">4da41cc8889a951003e40ecd992c74a3</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:47</sys_created_on>
+        <sys_id>4da41cc82a9a951091aafe8f8f1f96a2</sys_id>
+        <sys_name>Custom portal - Related items predicate</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_4da41cc82a9a951091aafe8f8f1f96a2</sys_update_name>
+        <table>sc_2_sc</table>
+        <ux_template display_value="Custom Portal Catalog item page - Related items template">41a41cc8be9a951091ebc75db3e327a3</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

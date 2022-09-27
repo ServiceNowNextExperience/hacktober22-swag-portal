@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>54d6644c87da9510cde964e73cbb3530</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app/>
+        <path>swag-portal</path>
+        <root_macroponent display_value="Header App Shell">9d9670b0c30320109fe6a0f89d40dd97</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:04:56</sys_created_on>
+        <sys_id>5db6a04c87da9510cde964e73cbb357a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Swag Portal</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_page_registry_5db6a04c87da9510cde964e73cbb357a</sys_update_name>
+        <sys_updated_by>ashley.snyder</sys_updated_by>
+        <sys_updated_on>2022-09-27 15:05:17</sys_updated_on>
+        <title>Swag Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</application>
+        <file_path/>
+        <instance_id>b46e28d3db894910e03ad7c8f4961968</instance_id>
+        <instance_name>ashleyuidemo</instance_name>
+        <name>sys_ux_page_registry_5db6a04c87da9510cde964e73cbb357a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>54d6644c87da9510cde964e73cbb3530</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app/><path>swag-portal</path><root_macroponent display_value="Header App Shell">9d9670b0c30320109fe6a0f89d40dd97</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>ashley.snyder</sys_created_by><sys_created_on>2022-09-27 15:04:56</sys_created_on><sys_id>5db6a04c87da9510cde964e73cbb357a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Swag Portal</sys_name><sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package><sys_policy/><sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope><sys_update_name>sys_ux_page_registry_5db6a04c87da9510cde964e73cbb357a</sys_update_name><sys_updated_by>ashley.snyder</sys_updated_by><sys_updated_on>2022-09-27 15:05:17</sys_updated_on><title>Swag Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-415167388</payload_hash>
+        <record_name>Swag Portal</record_name>
+        <reverted_from/>
+        <source>984414c8879a9510cde964e73cbb3556</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:05:17</sys_created_on>
+        <sys_id>1bd6644c87da9510cde964e73cbb357d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1837f7b19140000001</sys_recorded_at>
+        <sys_updated_by>ashley.snyder</sys_updated_by>
+        <sys_updated_on>2022-09-27 15:05:17</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>53d6644c11da9510957a29a975cc477d</update_guid>
+        <update_guid_history>53d6644c11da9510957a29a975cc477d:-415167388,c6c6a04ccdda9510a5e40334ac92b598:-551052396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ashley.snyder</sys_created_by>
+        <sys_created_on>2022-09-27 15:07:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0922bd23247e4618956fbf84a0e15a40</sys_id>
+        <sys_metadata>5db6a04c87da9510cde964e73cbb357a</sys_metadata>
+        <sys_name>Swag Portal</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_scope_delete display_value="">9be080ab0fa94912a2e69972c6d38c19</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_5db6a04c87da9510cde964e73cbb357a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_5db6a04c87da9510cde964e73cbb357a">1bd6644c87da9510cde964e73cbb357d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

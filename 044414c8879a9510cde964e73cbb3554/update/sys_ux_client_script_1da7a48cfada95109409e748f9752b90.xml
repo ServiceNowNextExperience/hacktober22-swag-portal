@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">9da7a48c67da95105ccc4918b7684494</macroponent>
+        <name>On search </name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+
+    const {
+        searchContextConfigId,
+        searchTerm
+    } = event.payload;
+    
+    api.emit('NAV_ITEM_SELECTED', {
+        route: "search",
+        fields: {
+            searchContextConfigId
+        },
+        params: {
+            searchTerm
+        }
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 15:08:47</sys_created_on>
+        <sys_id>1da7a48cfada95109409e748f9752b90</sys_id>
+        <sys_name>On search</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_client_script_1da7a48cfada95109409e748f9752b90</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

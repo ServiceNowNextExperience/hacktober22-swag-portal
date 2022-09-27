@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Swag Portal Config">3ca41cc8709a95105f061ae197310f9d</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional details</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(request)">c9a41cc8699a95104865e3593dc76ca9</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_add</route_type>
+        <screen_type display_value="Additional details">cda41cc8089a9510d2097c3dad4bc7a8</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:41</sys_created_on>
+        <sys_id>01a41cc8789a951084fdf0c2cf2859a9</sys_id>
+        <sys_name>Additional details</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_ux_app_route_01a41cc8789a951084fdf0c2cf2859a9</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=01a41cc8789a951084fdf0c2cf2859a9"/>
+</record_update>

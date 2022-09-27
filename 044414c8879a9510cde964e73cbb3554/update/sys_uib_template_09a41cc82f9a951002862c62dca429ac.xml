@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-right-sidebar.svg">89ff424877311010d99bbc3f6810614e</image>
+        <label>Portal Main Content with Right Rail</label>
+        <macroponent display_value="Fixed Width Two-One">41a41cc8849a9510e03162775f55a4ac</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-27 13:45:42</sys_created_on>
+        <sys_id>09a41cc82f9a951002862c62dca429ac</sys_id>
+        <sys_name>Portal Main Content with Right Rail</sys_name>
+        <sys_package display_value="Swag Portal" source="x_snc_swag_portal">044414c8879a9510cde964e73cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swag Portal">044414c8879a9510cde964e73cbb3554</sys_scope>
+        <sys_update_name>sys_uib_template_09a41cc82f9a951002862c62dca429ac</sys_update_name>
+        <type/>
+    </sys_uib_template>
+</record_update>
